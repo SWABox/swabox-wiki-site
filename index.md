@@ -1,0 +1,28 @@
+---
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
+
+hero:
+  name: "SWABox 文档"
+  text: "为电教委提供白班常用软件下载的工具"
+  tagline: "你的下载站，何必是浏览器"
+  image: "/logo.png"
+  actions:
+    - theme: brand
+      text: 快速上手
+      link: /quick-start/
+    - theme: alt
+      text: 应用帮助
+      link: /help/
+    - theme: alt
+      text: 开发文档
+      link: /dev-doc/
+features:
+  - title: Feature A
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature B
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature C
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+---
+
